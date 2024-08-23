@@ -1,6 +1,7 @@
-olá, sou a Carol.
-sou uma pessoa comunicativa e paciente.
-pretento cursar engenharia civil.
+Olá, sou a Carol.
+Sou uma pessoa comunicativa e paciente.
+Pretento cursar engenharia civil.
+Sei Inglês intermediário.
 
 <!---
 Carol3015/Carol3015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
