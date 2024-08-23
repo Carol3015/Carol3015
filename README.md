@@ -1,8 +1,6 @@
-
-Hii! I'm Carol ☆
--I'm interested in arachnids, preferably spiders🕷
--I want to work in the field of civil engineering🖇
--pronouns: she/her 📌
+olá, sou a Carol
+sou uma pessoa comunicativa, e paciente
+pretento cursar engenharia civil
 
 <!---
 Carol3015/Carol3015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
