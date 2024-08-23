@@ -1,5 +1,5 @@
 olá, sou a Carol.
-sou uma pessoa comunicativa, e paciente.
+sou uma pessoa comunicativa e paciente.
 pretento cursar engenharia civil.
 
 <!---
